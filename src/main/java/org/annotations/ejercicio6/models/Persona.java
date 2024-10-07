@@ -1,6 +1,6 @@
 package org.annotations.ejercicio6.models;
 
-import org.autodata.AutoData;
+import org.annotations.ejercicio6.annotations.AutoData;
 
 @AutoData
 public class Persona {
